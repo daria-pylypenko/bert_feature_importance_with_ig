@@ -1,0 +1,18 @@
+\begin{tabular}{llrlr}
+\toprule
+{} & \multicolumn{2}{l}{Translationese} & \multicolumn{2}{l}{Original} \\
+{} &          Token &   AAS &    Token &   AAS \\
+Rank &                &       &          &       \\
+\midrule
+1    &           pron &  0.12 &        x &  0.31 \\
+2    &          punct &  0.08 &      adv &  0.16 \\
+3    &          cconj &  0.07 &     part &  0.07 \\
+4    &            det &  0.06 &      aux &  0.05 \\
+5    &          sconj &  0.04 &     verb &  0.03 \\
+6    &           noun &  0.02 &      num &  0.02 \\
+7    &            adp &  0.00 &    propn &  0.02 \\
+8    &          [CLS] &  0.00 &      adj &  0.02 \\
+9    &          [SEP] &  0.00 &     noun &  0.02 \\
+10   &            num & -0.01 &      adp &  0.00 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,28 @@
+\begin{tabular}{llrlr}
+\toprule
+{} & \multicolumn{2}{l}{Translationese} & \multicolumn{2}{l}{Original} \\
+{} &             Token &   AAS &       Token &   AAS \\
+Rank &                   &       &             &       \\
+\midrule
+1    &          besuchte &  0.61 &           • &  0.83 \\
+2    &         entdeckte &  0.60 &       alpen &  0.69 \\
+3    &   veroffentlichte &  0.53 &         apo &  0.66 \\
+4    &          gehorten &  0.51 &     profits &  0.63 \\
+5    &            fuhrte &  0.47 &      \#\#nova &  0.59 \\
+6    &           nominal &  0.46 &       super &  0.49 \\
+7    &           benutzt &  0.46 &       \#\#bud &  0.48 \\
+8    &              tari &  0.45 &      \#\#ndus &  0.46 \\
+9    &             starb &  0.44 &    \#\#enland &  0.46 \\
+10   &              eman &  0.43 &     \#\#hutte &  0.45 \\
+11   &             loste &  0.39 &    digitale &  0.45 \\
+12   &          planeten &  0.39 &         ros &  0.45 \\
+13   &           geboren &  0.38 &  population &  0.43 \\
+14   &  veroffentlichten &  0.38 &         pla &  0.43 \\
+15   &             neige &  0.37 &     express &  0.42 \\
+16   &           schrieb &  0.37 &     \#\#vagen &  0.40 \\
+17   &          priester &  0.36 &       stahl &  0.40 \\
+18   &        scheiterte &  0.36 &          ez &  0.40 \\
+19   &             genus &  0.35 &      stands &  0.40 \\
+20   &       territorium &  0.35 &       \#\#nog &  0.39 \\
+\bottomrule
+\end{tabular}

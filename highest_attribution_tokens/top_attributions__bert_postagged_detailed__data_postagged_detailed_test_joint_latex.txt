@@ -1,0 +1,18 @@
+\begin{tabular}{llrlr}
+\toprule
+{} & \multicolumn{2}{l}{Translationese} & \multicolumn{2}{l}{Original} \\
+{} &          Token &   AAS &    Token &   AAS \\
+Rank &                &       &          &       \\
+\midrule
+1    &           appo &  0.32 &      adv &  0.21 \\
+2    &          prels &  0.19 &        . &  0.12 \\
+3    &           koui &  0.15 &    trunc &  0.06 \\
+4    &         pposat &  0.14 &     adjd &  0.05 \\
+5    &         prelat &  0.12 &       fm &  0.04 \\
+6    &            pis &  0.12 &    proav &  0.03 \\
+7    &           pper &  0.11 &      pds &  0.03 \\
+8    &           pdat &  0.11 &    vvizu &  0.02 \\
+9    &          vvfin &  0.11 &   ptkant &  0.02 \\
+10   &          vmfin &  0.10 &    ptkzu &  0.01 \\
+\bottomrule
+\end{tabular}
